@@ -1,3 +1,4 @@
+#2022 12 12 dockerfile
 FROM gradle:7.4-jdk11-alpine as builder
 WORKDIR /build
 
